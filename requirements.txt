@@ -1,0 +1,5 @@
+flask-cors
+python-dotenv
+openai==0.28.0
+flask-jwt-extended
+flask-mail 
